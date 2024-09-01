@@ -1,5 +1,13 @@
 # Lorenz attractor visualization
 
+## Installation
+
+Navigate to your code project directory and run
+
+```sh
+git clone https://github.com/yaz008/LorenzAttractorVisualization
+```
+
 ## How to run
 
 - Run all the cells in `lorenz.ipynb` from top to bottom
